@@ -1,0 +1,15 @@
+commands:
+  url-encode:
+    description: URL 编码
+  url-decode:
+    description: URL 解码
+  base64-encode:
+    description: Base64 编码
+  base64-decode:
+    description: Base64 解码
+  unicode-encode:
+    description: Unicode 编码
+  unicode-decode:
+    description: Unicode 解码
+
+_config: {}
