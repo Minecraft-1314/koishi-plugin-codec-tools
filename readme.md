@@ -13,7 +13,6 @@ This is an encoding/decoding tool plugin developed for the Koishi chatbot framew
 - Support for URL encoding/decoding
 - Support for Base64 encoding/decoding
 - Support for Unicode encoding/decoding
-- Support for parsing QR code/barcode content from images
 
 ## 使用说明 (Usage)
 

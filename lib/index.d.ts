@@ -1,6 +1,5 @@
 import { Context, Schema } from 'koishi';
 export declare const name = "codec-tools";
-export declare const using: readonly ["i18n"];
 export interface Config {
     maxInputLength?: number;
 }
